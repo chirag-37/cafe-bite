@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 15px 30px;
+    font-size: 17px;
+    padding: 8px;
+}
+.container {
+    background-color: blue;
+    padding: 5px 20px 15px 20px;
+    border: 1px solid lightcoral;
+    border-radius: 4px;
+}
+input[type="text"];
+input[type="email"];
+input[type="number"];
+input[type="password"];
+input[type="date"];
+select,
+textarea{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid gainsboro;
+    border-radius: 5px;
+
+}
+fieldset{
+    background-color: hotpink;
+    border: 1px solid mediumblue;
+
+}
+.main_heading{
+    text-align: center;
+}
